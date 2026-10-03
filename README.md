@@ -13,6 +13,16 @@ The application analyzes an uploaded image and predicts one of four hair-length 
 
 It displays the predicted category, confidence score, and probability distribution across all four classes.
 
+## 🚀 Live Demo
+
+**Try the application:** [Long Hair Identification AI](https://longhairidentificationai-ajlmhuzeuwdaqyljtjjekm.streamlit.app/)
+
+**GitHub Repository:** [View Source Code](https://github.com/Piiiiya/Long_Hair_Identification_AI)
+
+---
+
+# Long Hair Identification AI
+
 ## Features
 
 - Image upload through a Streamlit interface
